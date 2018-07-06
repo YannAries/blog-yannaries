@@ -13,7 +13,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: blog-yannaries.github.io
+# url: blog-yannaries.github.io
 root: /
 permalink: :day/:month/:year/:title/
 permalink_defaults:
@@ -94,7 +94,6 @@ theme: hiero
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  # repo: git@github.com:YannAries/blog-yannaries.git
-  repo: https://github.com/YannAries/blog-yannaries.github.io
+  repo: git@github.com:YannAries/blog-yannaries.git
   branch: master
   message: Deployment to github pages
