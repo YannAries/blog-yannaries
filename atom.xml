@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="blog-yannaries.github.io/"/>
-  <updated>2018-07-06T07:43:23.947Z</updated>
-  <id>blog-yannaries.github.io/</id>
+  <link href="https://yannaries.github.io/blog-yannaries/"/>
+  <updated>2018-07-07T01:26:01.158Z</updated>
+  <id>https://yannaries.github.io/blog-yannaries/</id>
   
   <author>
     <name>Yannick GF</name>
@@ -18,26 +18,28 @@
   
   <entry>
     <title>30 Days of code - Premiers pas</title>
-    <link href="blog-yannaries.github.io/05/07/2018/premier-pas/"/>
-    <id>blog-yannaries.github.io/05/07/2018/premier-pas/</id>
+    <link href="https://yannaries.github.io/blog-yannaries/05/07/2018/index/"/>
+    <id>https://yannaries.github.io/blog-yannaries/05/07/2018/index/</id>
     <published>2018-07-06T03:48:00.000Z</published>
-    <updated>2018-07-06T07:43:23.947Z</updated>
+    <updated>2018-07-07T01:26:01.158Z</updated>
     
-    <content type="html"><![CDATA[<p>Excité, mais c’est aussi avec un peu d’appréhension que je me lance dans le fameux défi “<a href="http://www.subscribepage.com/30days30sites" rel="external nofollow noopener noreferrer" target="_blank">30 days of code challenge</a>“.<br>L’objectif est de concevoir un site/projet (sans forcément passer par les différentes phases de prototypage) chaque jour sur une durée de 30 jours. Vous pourrez suivre ma progression au quotidien sur mon <a href="http://github.com/YannAries" rel="external nofollow noopener noreferrer" target="_blank">GitHub</a>.</p><p>Je mettrais ce post à jour plus tard pour y inclure le lien du repo. Un post récapitulatif des projets de la semaine me semble plus réaliste qu’un post par jour.</p><p><strong>Quelles sont les motivations qui m’ont amené à faire ce challenge?</strong></p><p>Acquérir de nouvelles connaissances, tester mon niveau technique et travailler sur des projets réels.</p><p>===</p><p>Voilà! Ainsi s’achève mon tout premier post sous forme d’intro. Celui de mon premier projet suivra. Restez connecté!</p>]]></content>
+    <content type="html"><![CDATA[<p>Excité, mais c’est aussi avec un peu d’appréhension que je me lance dans le fameux défi “<a href="http://www.subscribepage.com/30days30sites" target="_blank" rel="noopener">30 days of code challenge</a>“.<br>L’objectif est de concevoir un site/projet (sans forcément passer par les différentes phases de prototypage) chaque jour sur une durée de 30 jours. Vous pourrez suivre ma progression au quotidien sur mon <a href="http://github.com/YannAries" target="_blank" rel="noopener">GitHub</a>. </p><p>Je mettrais ce post à jour plus tard pour y inclure le lien du repo. Un post récapitulatif des projets de la semaine me semble plus réaliste qu’un post par jour.</p><p><strong>Quelles sont les motivations qui m’ont amené à faire ce challenge? </strong></p><p>Acquérir de nouvelles connaissances, tester mon niveau technique et travailler sur des projets réels.</p><p>===</p><p>Voilà! Ainsi s’achève mon tout premier post sous forme d’intro. Celui de mon premier projet suivra. Restez connecté!</p><a id="more"></a>]]></content>
     
     <summary type="html">
     
-      
-      
-        &lt;p&gt;Excité, mais c’est aussi avec un peu d’appréhension que je me lance dans le fameux défi “&lt;a href=&quot;http://www.subscribepage.com/30days30si
-      
+      &lt;p&gt;Excité, mais c’est aussi avec un peu d’appréhension que je me lance dans le fameux défi “&lt;a href=&quot;http://www.subscribepage.com/30days30sites&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;30 days of code challenge&lt;/a&gt;“.&lt;br&gt;L’objectif est de concevoir un site/projet (sans forcément passer par les différentes phases de prototypage) chaque jour sur une durée de 30 jours. Vous pourrez suivre ma progression au quotidien sur mon &lt;a href=&quot;http://github.com/YannAries&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;. &lt;/p&gt;
+&lt;p&gt;Je mettrais ce post à jour plus tard pour y inclure le lien du repo. Un post récapitulatif des projets de la semaine me semble plus réaliste qu’un post par jour.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Quelles sont les motivations qui m’ont amené à faire ce challenge? &lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Acquérir de nouvelles connaissances, tester mon niveau technique et travailler sur des projets réels.&lt;/p&gt;
+&lt;p&gt;===&lt;/p&gt;
+&lt;p&gt;Voilà! Ainsi s’achève mon tout premier post sous forme d’intro. Celui de mon premier projet suivra. Restez connecté!&lt;/p&gt;
     
     </summary>
     
-      <category term="30 days 30 sites Challenge" scheme="blog-yannaries.github.io/categories/30-days-30-sites-Challenge/"/>
+      <category term="30 days 30 sites Challenge" scheme="https://yannaries.github.io/blog-yannaries/categories/30-days-30-sites-Challenge/"/>
     
     
-      <category term="code, developpement web, web, coding, challenge" scheme="blog-yannaries.github.io/tags/code-developpement-web-web-coding-challenge/"/>
+      <category term="code, developpement web, web, coding, challenge" scheme="https://yannaries.github.io/blog-yannaries/tags/code-developpement-web-web-coding-challenge/"/>
     
   </entry>
   
