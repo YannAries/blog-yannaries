@@ -18,3 +18,5 @@ Acquérir de nouvelles connaissances, tester mon niveau technique et travailler 
 ===
 
 Voilà! Ainsi s'achève mon tout premier post sous forme d'intro. Celui de mon premier projet suivra. Restez connecté!
+
+<!-- more -->
